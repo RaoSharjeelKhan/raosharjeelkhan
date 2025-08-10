@@ -1,39 +1,6 @@
-
-
-# 💫 About Me:
+ # 💫 About Me:
 ###  
 <img align="right" height="150" src="https://i.imgflip.com/a2ouat.gif" />
-I’m an **AI Engineer** who thrives at the intersection of **Generative AI**, **LLMs**, and **Computer Vision**.  
-My work spans building **agentic RAG pipelines**, **AI-powered automation tools**, and **real-time computer vision systems** — all backed by production-grade APIs and MLOps best practices.
-
-💡 **I’ve:**
-- Built modular **GenAI-powered apps** using LangChain, LlamaIndex, CrewAI, and vector databases.  
-- Fine-tuned **LLMs** with LoRA/QLoRA for low-latency, high-accuracy responses.  
-- Engineered **real-time computer vision** solutions for tracking, detection, and pose analysis.  
-- Delivered **40+ custom AI solutions** to global clients on Fiverr (*Level 2 Seller*).  
-
----
-
-🔧 **Tech I play with:**  
-LLMs · RAG · CrewAI · LangChain · LlamaIndex · DSPy · FastAPI · Docker · MLflow · DVC · Computer Vision  
-
-⚡ **Fun fact**  
-
-🗺️ **I’m currently working on**  
-Building modular GenAI-powered systems (AuditX) with agentic RAG, CrewAI agents, and real-time computer vision modules.  
-
-🤝 **I’m looking to collaborate on**  
-LLM-based products, RAG optimization, and AI-driven automation tools.  
-
-🙋‍♂️ **I’m looking for help with**  
-Scaling LLM workflows for ultra-low latency and integrating MCP tools effectively.  
-
-🌱 **I’m currently learning**  
-DSPy, LangChain, and MCP for prompt optimization, orchestration, and tool integration.  
-
-💬 **Ask me about**  
-GenAI, LLM fine-tuning (LoRA/QLoRA), RAG pipelines, computer vision, and deploying AI to production.  
-# 💫 About Me:
 I’m an **AI Engineer** who thrives at the intersection of **Generative AI**, **LLMs**, and **Computer Vision**.  <br>My work spans building **agentic RAG pipelines**, **AI-powered automation tools**, and **real-time computer vision systems** — all backed by production-grade APIs and MLOps best practices.<br><br>💡 **I’ve:**<br><br>- Built modular **GenAI-powered apps** using LangChain, LlamaIndex, CrewAI, and vector databases.  <br>- Fine-tuned **LLMs** with LoRA/QLoRA for low-latency, high-accuracy responses.  <br>- Engineered **real-time computer vision** solutions for tracking, detection, and pose analysis.  <br>- Delivered **40+ custom AI solutions** to global clients on Fiverr (*Level 2 Seller*).  <br><br><br>🔧 Tech I play with:<br>LLMs · RAG · CrewAI · LangChain · LlamaIndex · DSPy · FastAPI · Docker · MLflow · DVC · Computer Vision<br>⚡ Fun fact🗺️ **I’m currently working on**  <br>Building modular GenAI-powered systems (AuditX) with agentic RAG, CrewAI agents, and real-time computer vision modules.  <br><br>🤝 **I’m looking to collaborate on**  <br>LLM-based products, RAG optimization, and AI-driven automation tools.  <br><br>🙋‍♂️ **I’m looking for help with**  <br>Scaling LLM workflows for ultra-low latency and integrating MCP tools effectively.  <br><br>🌱 **I’m currently learning**  <br>DSPy, LangChain, and MCP for prompt optimization, orchestration, and tool integration.  <br><br>💬 **Ask me about**  <br>GenAI, LLM fine-tuning (LoRA/QLoRA), RAG pipelines, computer vision, and deploying AI to production.  
 
 
