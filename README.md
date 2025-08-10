@@ -1,7 +1,8 @@
-###  
-<img align="right" height="150" src="https://i.imgflip.com/a2ouat.gif" />
+
 
 # 💫 About Me:
+###  
+<img align="right" height="150" src="https://i.imgflip.com/a2ouat.gif" />
 I’m an **AI Engineer** who thrives at the intersection of **Generative AI**, **LLMs**, and **Computer Vision**.  
 My work spans building **agentic RAG pipelines**, **AI-powered automation tools**, and **real-time computer vision systems** — all backed by production-grade APIs and MLOps best practices.
 
