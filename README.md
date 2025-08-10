@@ -1,31 +1,13 @@
-README.md
-
-Your Readme is Done 🎉🎉🎉
-Star This Project
-Fork on Github
-
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h4 align="left">👋 Hey, I’m Sharjeel Khan<br>I’m an AI Engineer who thrives at the intersection of Generative AI, LLMs, and Computer Vision. My work spans building agentic RAG pipelines, AI-powered automation tools, and real-time computer vision systems—all backed by production-grade APIs and MLOps best practices.<br><br>💡 I’ve:<br><br>Built modular GenAI-powered apps using LangChain, LlamaIndex, CrewAI, and vector databases.<br><br>Fine-tuned LLMs with LoRA/QLoRA for low-latency, high-accuracy responses.<br><br>Engineered real-time computer vision solutions for tracking, detection, and pose analysis.<br><br>Delivered 40+ custom AI solutions to global clients on Fiverr (Level 2 Seller).<br>🧠 My AI playground includes:<br>🗂 RAG Pipelines that actually retrieve the right stuff (agentic, reranked, optimized with DSPy).<br><br>🤖 LLM Fine-Tuning with LoRA/QLoRA—because faster and smarter beats bigger.<br><br>👀 Computer Vision for tracking, detection, and pose analysis (yes, even cyclists at TDC & BDC).<br><br>⚡ MLOps & Deployment: FastAPI, Docker, MLflow, DVC, CI/CD magic.<br>🔧 Tech I play with:<br>LLMs · RAG · CrewAI · LangChain · LlamaIndex · DSPy · FastAPI · Docker · MLflow · DVC · Computer Vision<br><br>🎯 Whether it’s chatbots that think, AI agents that act, or models that see, I focus on building AI systems that solve real-world problems—fast, efficient, and production-ready.</h4>
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/a2os0y.gif"  />
+<img align="right" height="150" src="https://i.imgflip.com/a2ouat.gif"  />
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
   <img width="12" />
@@ -49,9 +31,9 @@ Fork on Github
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="30" alt="sqlalchemy logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=white&style=for-the-badge" height="30" alt="anaconda logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" height="30" alt="django logo"  />
+  <img src="https://skillicons.dev/icons?i=django" height="30" alt="django logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
 </div>
@@ -59,81 +41,12 @@ Fork on Github
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
 ###
 
-<div align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
-  </a>
-</div>
+<p align="left">Hello World!!</p>
 
 ###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-</div>
-
-###
-A white circle with a dark file icon outlined in the center
-Profile Readme Generator
-Developed and maintained by Mauro de Souza
-Github
-Donate
-Share
-Privacy Policy
-Copy File Content
-Level Up Your README
-Anyone can use templates — but when you know what you’re doing, it shows.
-
-👉 Explore resources that will upgrade your skills — and your README. Start now.
-
-
-Clean Code
-A Handbook of Agile Software Craftsmanship by Uncle Bob.
-
-Get the book
-
-Clean Architecture
-Software Architecture Solutions from Uncle Bob.
-
-Get the book
-
-Explore More Books
-Browse the full list of curated titles to boost your coding skills.
-
-More books
-💡 This panel contains affiliate links. If you find something useful and make a purchase, I may earn a small commission ☕. Thanks for the support ❤
-Profile Readme Generator
