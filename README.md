@@ -15,9 +15,6 @@ My work spans building **agentic RAG pipelines**, **AI-powered automation tools*
 🔧 **Tech I play with:**  
 LLMs · RAG · CrewAI · LangChain · LlamaIndex · DSPy · FastAPI · Docker · MLflow · DVC · Computer Vision  
 
-⚡ **Fun fact:**  
-Once built a cycling posture analysis system that detects crank positions (TDC/BDC) using FFT and pose estimation — just for fun.  
-
 🗺️ **I’m currently working on**  
 Building modular GenAI-powered systems (AuditX) with agentic RAG, CrewAI agents, and real-time computer vision modules.  
 
